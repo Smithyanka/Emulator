@@ -2,7 +2,7 @@ from pydantic import BaseModel
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 class Config(BaseSettings):
-    PORT: int = 8090
+    PORT: int = 8095
     MAX_USERS: int = 500
     HOST: str = "localhost"
     PROTOCOL: str = "http"
