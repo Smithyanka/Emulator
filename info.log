@@ -1,0 +1,11 @@
+Log: [79815b29-e42b-4a71-9379-7e221570a319:2025-03-13T17:44:44.982297+0400 - WARNING - Request to / failed
+Log: [701eb7f4-9a6e-4146-a484-d03ce5b3d397:2025-03-13T17:44:50.238645+0400 - INFO - Request to /docs succeeded
+Log: [7971a560-92c7-4e91-87d7-aeb5825eb233:2025-03-13T17:44:50.386937+0400 - INFO - Request to /openapi.json succeeded
+Log: [6ca50cac-970a-4e0f-89c2-cbf37b686410:2025-03-13T17:44:55.964664+0400 - INFO - Request to /rest/api/2/issue/ succeeded
+Log: [5db22f97-9b29-4371-8878-4b0fe8c488b7:2025-03-13T17:45:22.553240+0400 - WARNING - Request to /rest/api/2/issue/12 failed
+Log: [237bfa3d-6d70-4b15-8b64-5ea4d19e3759:2025-03-13T17:53:30.282455+0400 - INFO - Request to /rest/api/2/issue succeeded
+Log: [a52aa579-691b-4d23-bde3-334fe64282cf:2025-03-13T17:53:30.497312+0400 - INFO - Request to /rest/api/2/issue/ succeeded
+Log: [37302f63-6385-4b30-b64b-9966e9836e6d:2025-03-13T17:53:49.128897+0400 - WARNING - Request to /rest/api/2/issue/14037 failed
+Log: [a596b6b8-213a-4cc5-9a64-1485bd1481e6:2025-03-13T17:53:55.496837+0400 - INFO - Request to /rest/api/2/issue/28108 succeeded
+Log: [892e8b58-ac51-4a05-9a17-ad5d7233b638:2025-03-13T17:54:33.996171+0400 - INFO - Request to /rest/api/2/issue succeeded
+Log: [60110a71-fab9-4694-a75f-75bb84003ec2:2025-03-13T17:54:34.199817+0400 - INFO - Request to /rest/api/2/issue/ succeeded
